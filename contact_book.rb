@@ -3,7 +3,7 @@ class ContactBook
     @contact = []
   end
 
-  def total_contacts
+  def total_contact
     @contact.count
   end
 
